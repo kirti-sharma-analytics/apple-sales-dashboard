@@ -75,6 +75,16 @@ apple-sales-dashboard
 ├── dashboard-overview-apple.png
 └── README.md
 ```
+## How to Use the Dashboard
+
+1. Download the Excel file from this repository.
+2. Open **apple_sales_dashboard.xlsx** in Microsoft Excel.
+3. Use the slicers on the left side of the dashboard to filter data by:
+
+   * Year
+   * Quarter
+   * City
+4. All charts and KPI metrics will update automatically based on the selected filters.
 
 ## Author
 
