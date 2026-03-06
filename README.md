@@ -8,7 +8,7 @@ The objective of this project is to demonstrate how Excel can be used as a power
 
 ## Dashboard Preview
 
-![Dashboard](dashboard_overview.png)
+![Dashboard](dashboard-overview-apple.png)
 
 ## Key Metrics
 
