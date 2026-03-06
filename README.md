@@ -72,7 +72,7 @@ This project was developed using the following tools and techniques:
 apple-sales-dashboard
 │
 ├── apple_sales_dashboard.xlsx
-├── dashboard_overview.png
+├── dashboard-overview-apple.png
 └── README.md
 ```
 
