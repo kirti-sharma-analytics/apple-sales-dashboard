@@ -1,4 +1,6 @@
 # Apple Global Sales Dashboard
+An interactive Excel dashboard analyzing Apple product sales across regions, customer segments, and product categories using pivot tables, slicers, and data visualizations.
+
 
 ## Overview
 
